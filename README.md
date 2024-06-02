@@ -1,1 +1,1 @@
-# account-book
+# chobo-server
